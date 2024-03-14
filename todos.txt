@@ -1,4 +1,2 @@
-Return the books to the library.
 new test
-sample
 do the laundry
